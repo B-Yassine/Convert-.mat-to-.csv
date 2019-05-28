@@ -1,4 +1,4 @@
-# Convert-.mat-to-.csv
+# ConvertMatToCsv
 Convert any .mat file in a csv file
 
 
