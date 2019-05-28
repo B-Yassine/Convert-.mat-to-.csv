@@ -2,7 +2,7 @@
 Convert any .mat file in a csv file
 
 
-if you get: TypeError: Mismatch between array dtype ('object') and format specifier ('%.18e,%.18e')
+if you get: Mismatch between array dtype ('object') and format specifier
 
 Just modify the last line as follow:
 
